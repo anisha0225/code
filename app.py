@@ -49,7 +49,7 @@ with st.container():
      - and trying to make some web pages by streamlit.
      - After using some languages it seems that streamlit is much easier to make website rather than any language.
      - it is less time consuming.
-     - The youtube channel 'Coding is Fun' make this more easy and fun for me to learn streanlit and make web pages by it...
+     - The youtube channel 'Coding is Fun' make this more easy and fun for me to learn streamlit and make web pages by it...
      """
   )
   st.write("[Real page demo link>](https://www.youtube.com/redirect?event=comments&redir_token=QUFFLUhqbGdzVnZMUGZRT21weDBKSGZqX3NOdGlET01iQXxBQ3Jtc0trNHZfdjhDUWNzdEJDcTlJNUxOYlBqQ1pyVUxNbTJHejNEWU9Ta3M2ZzJKUmQ4c01VNjJsdlBQMlZqQXQtUFFWZUdoT3RWelhGTF9jS21fTlRkaS1Pd1RXaFVJdUVScWVYdkJNOFJSYk5HaG5vS2RyVQ&q=https%3A%2F%2Fshare.streamlit.io%2Fsven-bo%2Fpersonal-website-streamlit%2Fapp.py&stzid=Ugw7baMUgu4VstZPswV4AaABAg)")
